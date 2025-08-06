@@ -1,6 +1,3 @@
-# scoreazy-landing-page
-Landing page for Scoreazy, created using Wix for my Web Development internship assignment. (https://vishwavikas77.wixsite.com/scoreazy)
-
 # Scoreazy Landing Page (Wix)
 
 This is the landing page for Scoreazy, built as part of my Web Development internship assignment. The entire site was created using Wix (no hand-coded HTML/CSS). 
